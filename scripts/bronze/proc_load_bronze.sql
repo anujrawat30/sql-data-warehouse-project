@@ -26,7 +26,7 @@ BEGIN
 		PRINT '=========================================';
 	
 		PRINT '=========================================';
-		PRINT 'LOADING CRM TABLES';
+		PRINT '-----------LOADING CRM TABLES------------';
 		PRINT '=========================================';
 		
 		SET @start_time = GETDATE();
