@@ -69,7 +69,7 @@ BEGIN
 		PRINT '>>---------------------'
 
 		PRINT '=========================================';
-		PRINT 'LOADING ERP TABLES';
+		PRINT '-----------LOADING ERP TABLES------------';
 		PRINT '=========================================';
 		
 		SET @start_time = GETDATE();
