@@ -1,15 +1,15 @@
-# Data Warehouse and Analytics Project
+# Enterprise Data Warehouse & Business Intelligence Solution project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a modern data warehouse to generating actionable business insights. It is designed as a portfolio project that highlights industry best practices in data engineering and analytics.
+Welcome to the **Enterprise Data Warehouse & Business Intelligence Solution project** repository! 🚀  
+An end-to-end data engineering and analytics project focused on designing and developing a data warehouse using industry-standard practices. The project covers the complete data lifecycle, from extracting and transforming raw data to organizing it for analytical reporting and uncovering meaningful business insights..
 
 ---
 
-# 📌 Project Requirements
+#   Project Requirements
 
-## 🏗️ Building the Data Warehouse (Data Engineering)
+##  Building the Data Warehouse (Data Engineering)
 
-### 🎯 Objective
+### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ### 📋 Specifications
