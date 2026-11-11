@@ -4,6 +4,8 @@ Welcome to the **Enterprise Data Warehouse & Business Intelligence Solution proj
 An end-to-end data engineering and analytics project focused on designing and developing a data warehouse using industry-standard practices. The project covers the complete data lifecycle, from extracting and transforming raw data to organizing it for analytical reporting and uncovering meaningful business insights..
 
 ---
+# Project Overview
+
 
 #   Project Requirements
 
