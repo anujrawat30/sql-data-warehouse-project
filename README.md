@@ -56,6 +56,11 @@ The Data Architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 # Repository Structure
+
+
+## Repository Structure
+
+```text
 data-warehouse-project/
 │
 ├── datasets/                  # Raw datasets used for the project (ERP and CRM data)
@@ -80,3 +85,5 @@ data-warehouse-project/
 ├── .gitignore                 # Files and directories to be ignored by Git
 │
 └── requirements.txt           # Dependencies and requirements for the project
+```
+
